@@ -1,12 +1,27 @@
 {
-  "name": "ContactSync",
+  "name": "contact-sync",
   "version": "1.0.0",
-  "description": "Snycs WebdavToPhoner",
-  "main": "index.js",
+  "description": "Syncs Webdav To Phoner",
+  "main": "src/index.js",
+  "author": {
+    "name": "Florian Wojtenek"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aequi42/ContactSync"
+  },
   "license": "MIT",
   "dependencies": {
     "dav": "^1.8.0",
     "dotenv": "^8.2.0",
     "vcardparser": "^1.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "prettier": {
+    "semi": false,
+    "printWidth": 120,
+    "arrowParens": "avoid"
   }
 }
