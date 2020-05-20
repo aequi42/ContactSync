@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "dav": "^1.8.0",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "vcardparser": "^1.0.3"
   }
 }

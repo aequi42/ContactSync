@@ -21,6 +21,11 @@ dotenv@^8.2.0:
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
+vcardparser@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/vcardparser/-/vcardparser-1.0.3.tgz#77a734f8d5ca147e0c9399e7c42dd24e984a82e8"
+  integrity sha1-d6c0+NXKFH4Mk5nnxC3STphKgug=
+
 xmldom@^0.1.19:
   version "0.1.31"
   resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.1.31.tgz#b76c9a1bd9f0a9737e5a72dc37231cf38375e2ff"
